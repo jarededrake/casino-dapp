@@ -7,7 +7,7 @@ import CasinoInterface from "./contracts/Casino.json";
 const ABI = CasinoInterface.abi;
 
 // REPLACE WITH YOUR OWN KEY
-const INFURA_KEY = "25ed13c7cd79450d917ab1a918c43ecc";
+const INFURA_KEY = "2e3e21b4fc7e486fbca6cb97c29f5eb2";
 
 class App extends React.Component {
   constructor(props) {
