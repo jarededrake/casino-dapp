@@ -20,3 +20,14 @@ Tools used:
 - React Router
 - Web 3
 - Infura
+
+Instructions:
+
+1. Sign into to meta mask when prompted
+2. Choose how much test ether you want to bet
+3. Pick a number you want to bet on
+4. Confirm through meta mask
+5. Wait for transaction to be mined
+6. Look at total ether pool go up
+7. Sign into another account and repeat steps 1 - 6 go continue to place bets
+8. After max number of bets is reached receive pay out
